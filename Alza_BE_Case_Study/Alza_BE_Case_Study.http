@@ -1,0 +1,6 @@
+@Alza_BE_Case_Study_HostAddress = http://localhost:5125
+
+GET {{Alza_BE_Case_Study_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
